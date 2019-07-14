@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\bin\Debug\Calculator_NUnitTest.dll
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\bin\Debug\Calculator_NUnitTest.pdb
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\bin\Debug\nunit.framework.pdb
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\obj\Debug\Calculator_NUnitTest.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\obj\Debug\Calculator_NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\obj\Debug\Calculator_NUnitTest.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\obj\Debug\Calculator_NUnitTest.dll
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\obj\Debug\Calculator_NUnitTest.pdb
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\bin\Debug\Calculate.dll
+C:\Users\Administrator\source\repos\Calculate\Calculator_NUnitTest\bin\Debug\Calculate.pdb

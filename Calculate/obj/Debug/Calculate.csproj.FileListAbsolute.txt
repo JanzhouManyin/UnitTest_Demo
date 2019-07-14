@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\Calculate\Calculate\bin\Debug\Calculate.dll
+C:\Users\Administrator\source\repos\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Administrator\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Calculate\Calculate\obj\Debug\Calculate.dll
+C:\Users\Administrator\source\repos\Calculate\Calculate\obj\Debug\Calculate.pdb

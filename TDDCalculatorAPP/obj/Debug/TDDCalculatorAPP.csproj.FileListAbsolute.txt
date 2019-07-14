@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\Calculate\TDDCalculatorAPP\bin\Debug\TDDCalculatorAPP.dll
+C:\Users\Administrator\source\repos\Calculate\TDDCalculatorAPP\bin\Debug\TDDCalculatorAPP.pdb
+C:\Users\Administrator\source\repos\Calculate\TDDCalculatorAPP\obj\Debug\TDDCalculatorAPP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Calculate\TDDCalculatorAPP\obj\Debug\TDDCalculatorAPP.dll
+C:\Users\Administrator\source\repos\Calculate\TDDCalculatorAPP\obj\Debug\TDDCalculatorAPP.pdb
